@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.oddel {
+    background-color: rgb(255, 159, 159);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#evenel1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddel1 {
+    font-size: 24px;
+}
+
+#evenel2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
